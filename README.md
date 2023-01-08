@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-jain-160954189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh jain" height="30" width="40" /></a>
 <a href="https://instagram.com/__harsh_jain__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__harsh_jain__" height="30" width="40" /></a>
 <a href="https://medium.com/@harshjain25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshjain25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/harshjainvlogs787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshjainvlogs787" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCg6RMEMK5XAj111em_o4nZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshjainvlogs787" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
