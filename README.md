@@ -35,5 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshjain25&" alt="harshjain25" /></p>
 
-<img src='[[[https://static.wixstatic.com/media/5164af_f8e532d6894647c9a7a2323478c22f3b~mv2.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0YWwLVMt4IDac1rGa5mOspJh5jMZXGvS3A&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZERImOogVorXV20topeT7P-BgIKLodW1r8Q&usqp=CAU)](https://i.pinimg.com/564x/1c/6c/a1/1c6ca1ff95f3dce4172d8e4022fa766d.jpg)' width = 300 height =175 align = "right" alt="coder" >
+<img src='ghost.jpg' width = 300 height =175 align = "right" alt="coder" >
 <p><img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"></p>
