@@ -2,12 +2,13 @@
 <h3 align="center">A passionate CSE student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjain25&label=Profile%20views&color=0e75b6&style=flat" alt="harshjain25" /> </p>
+- 🔭 I’m currently working on self-improvement
 
-- 🌱 I’m currently learning **DSA,CP,java,python**
+- 🌱 I’m currently learning **DSA and Full Stack Development**
 
 - 📝 I regularly write articles on [https://medium.com/@harshjain25](https://medium.com/@harshjain25)
 
-- 💬 Ask me about **DSA,CP**
+- 💬 Ask me about **DSA and Development**
 
 - 📫 How to reach me **jainharsh2526@gmail.com**
 
